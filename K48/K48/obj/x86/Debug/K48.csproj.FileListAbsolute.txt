@@ -1,0 +1,27 @@
+D:\NhiHo\C#\K48\K48\bin\Debug\K48.exe.config
+D:\NhiHo\C#\K48\K48\bin\Debug\K48.exe
+D:\NhiHo\C#\K48\K48\bin\Debug\K48.pdb
+D:\NhiHo\C#\K48\K48\obj\x86\Debug\K48.Form1.resources
+D:\NhiHo\C#\K48\K48\obj\x86\Debug\K48.Properties.Resources.resources
+D:\NhiHo\C#\K48\K48\obj\x86\Debug\K48.csproj.GenerateResource.Cache
+D:\NhiHo\C#\K48\K48\obj\x86\Debug\K48.exe
+D:\NhiHo\C#\K48\K48\obj\x86\Debug\K48.pdb
+D:\NhiHo\C#\K48\K48\obj\x86\Debug\K48.csprojResolveAssemblyReference.cache
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\bin\Debug\K48.exe.config
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\obj\x86\Debug\K48.exe
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\obj\x86\Debug\K48.pdb
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\bin\Debug\K48.exe
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\bin\Debug\K48.pdb
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\obj\x86\Debug\K48.csprojResolveAssemblyReference.cache
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\obj\x86\Debug\K48.Form1.resources
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\obj\x86\Debug\K48.Properties.Resources.resources
+C:\Users\Nhi Ho\Desktop\K48\K48\K48\obj\x86\Debug\K48.csproj.GenerateResource.Cache
+D:\NhiHo\C#\K48\K48\K48\bin\Debug\K48.exe.config
+D:\NhiHo\C#\K48\K48\K48\obj\x86\Debug\K48.exe
+D:\NhiHo\C#\K48\K48\K48\obj\x86\Debug\K48.pdb
+D:\NhiHo\C#\K48\K48\K48\bin\Debug\K48.exe
+D:\NhiHo\C#\K48\K48\K48\bin\Debug\K48.pdb
+D:\NhiHo\C#\K48\K48\K48\obj\x86\Debug\K48.csprojResolveAssemblyReference.cache
+D:\NhiHo\C#\K48\K48\K48\obj\x86\Debug\K48.Form1.resources
+D:\NhiHo\C#\K48\K48\K48\obj\x86\Debug\K48.Properties.Resources.resources
+D:\NhiHo\C#\K48\K48\K48\obj\x86\Debug\K48.csproj.GenerateResource.Cache
